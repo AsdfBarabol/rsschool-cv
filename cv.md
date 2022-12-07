@@ -27,7 +27,10 @@ I am 38 years old. I live in the Republic of Belarus, Mogilev city. Higher techn
 + cellular engineer
     + cell tower maintenance
     + industrial alpinism
+
+
 ## Languages ##
+
 English - A2
 
 ## _[C# Certificate ](https://www.sololearn.com/certificates/CT-TLIAAJXS)_ ##
