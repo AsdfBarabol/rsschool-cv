@@ -1,0 +1,172 @@
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+footer {
+  width: 100%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 1.5;
+  font-size: 18px;
+  background-color: rgba(119, 147, 190, 0.356)  ;
+}
+
+code {
+  font-size: 12px;
+}
+
+.code {
+  display: flex;
+  justify-content: center;
+}
+
+pre {
+  background-color: beige;
+  border-radius: 15px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h3 {
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  margin: auto;
+  text-align: center;
+}
+.logo {
+  width: 30%;
+  height: 30%;
+}
+
+.logo-copyright {
+  margin: auto;
+}
+
+.logo-rsshool {
+  margin: auto;
+  width: 6em;
+}
+.progress {
+  position: relative;
+  right: 0;
+}
+
+.contacts {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-color: rgba(119, 147, 190, 0.356);
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.block-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.section {
+  width: 50%;
+}
+
+.li-style {
+  list-style: none;
+}
+#top-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+.top-menu-li {
+  display: inline-block;
+  margin-right: 4px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.github-link {
+  text-decoration: none;
+  color: black;
+}
+
+.copy {
+  font: italic bold 20px/1.5 Times, serif;
+}
+
+.avatar-user {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
+  filter: grayscale(0.2) brightness(1.05);
+  transition: 0.3s;
+  margin-top: 1em;
+}
+
+.header-nav {
+  background-color: rgba(75, 119, 170, 0.637);
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  font-size: unset;
+}
+
+.aboutme {
+  text-align: center;
+}
+
+.pre {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  padding: 0;
+  margin: 0;
+  border: 1px solid black;
+}
+
+.conteinerli {
+  width: 100%;
+}
+
+.conteinerli ul {
+  text-align: center;
+  list-style: none;
+}
+
+.conteinerli li {
+  display: inline-block;
+  margin: 0 2%;
+}
